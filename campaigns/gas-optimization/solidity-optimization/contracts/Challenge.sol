@@ -10,7 +10,7 @@ contract Challenge {
     }
 
     // /**
-    //  * @notice Returns the sum of the elements of the given array, skipping any SKIP value.
+    //  * @notice Returns  the sum of the elements of the given array, skipping any SKIP value.
     //  * @param array The array to sum.
     //  * @return The sum of all the elements of the array excluding SKIP.
     //  */
